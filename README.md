@@ -3,7 +3,11 @@
 
 ## Установка
 ```
-git clone https://github.com/EHfive/genshin-midi-lyre.git
-cd genshin-midi-lyre
+git clone https://github.com/KolyanB/console-video.git
+cd console-video
 pip install -r .\requirements.txt
+```
+## Использование
+```
+python main.py
 ```
